@@ -1,2 +1,4 @@
 # Cisco-Networking-Essesntial
 It contains labs of cisco networking  essential.
+Lab 2 : Establish connection between computers using switch on packet tracer, perform ping test and explore MAC table of switch to understand learning, flooding and forwarding.
+In this networking lab, the objective is to establish a connection between multiple computers using a switch and assign unique IP addresses to each computer. The lab involves performing "ping" tests between neighboring computers to verify connectivity. Additionally, we will explore the MAC table in the switch and gain an understanding of its fundamental functionalities such as learning, flooding, and forwarding. Furthermore, we will experiment with basic configuration and view commands on the switch to familiarize ourselves with its operation.
